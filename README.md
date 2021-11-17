@@ -1,12 +1,14 @@
 # Optimizing Databricks Workloads
 
-<a href="https://www.packtpub.com/product/optimizing-databricks-workloads/9781801819077"><img src="Cover Image URL of the Book" alt="Optimizing Databricks Workloads" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/optimizing-databricks-workloads/9781801819077"><img src="https://static.packt-cdn.com/products/9781801819077/cover/smaller" alt="Optimizing Databricks Workloads" height="256px" align="right"></a>
 
 This is the code repository for [Optimizing Databricks Workloads](https://www.packtpub.com/product/optimizing-databricks-workloads/9781801819077), published by Packt.
 
 **Harness the power of Apache Spark in Azure and maximize the performance of modern big data workloads**
 
-## What is this book about?Databricks is an industry-leading, cloud-based platform for data analytics, data science, and data engineering supporting thousands of organizations across the world in their data journey. It is a fast, easy, and collaborative Apache Spark-based big data analytics platform for data science and data engineering in the cloud.First Paragraph from the Long Description
+## What is this book about?
+
+Databricks is an industry-leading, cloud-based platform for data analytics, data science, and data engineering supporting thousands of organizations across the world in their data journey. It is a fast, easy, and collaborative Apache Spark-based big data analytics platform for data science and data engineering in the cloud.First Paragraph from the Long Description
 
 This book covers the following exciting features: <First 5 What you'll learn points>
 * Get to grips with Spark fundamentals and the Databricks platform
@@ -47,7 +49,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Azure Databricks Cookbook [[Packt]](https://www.packtpub.com/product/azure-databricks-cookbook/9781789809718) [[Amazon]](https://www.amazon.com/dp/1789809711)
 
-* Distributed Data Systems with Azure Databricks [[Packt]]https://www.packtpub.com/product/distributed-data-systems-with-azure-databricks/9781838647216) [[Amazon]](https://www.amazon.com/dp/183864721X)
+* Distributed Data Systems with Azure Databricks [[Packt]](https://www.packtpub.com/product/distributed-data-systems-with-azure-databricks/9781838647216) [[Amazon]](https://www.amazon.com/dp/183864721X)
 
 ## Get to Know the Authors
 **Anirudh Kala**

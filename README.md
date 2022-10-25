@@ -62,3 +62,7 @@ is an experienced, hands-on data architect involved in the architecture, design,
 is a certified data engineer and analyst with a wide technical breadth and a deep understanding of Databricks. His background has led him to a variety of cloud data services with an eye toward data warehousing, big data analytics, robust data engineering, data science, and business intelligence. Sarthak graduated with a degree in mechanical engineering.	
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801819077">https://packt.link/free-ebook/9781801819077 </a> </p>
